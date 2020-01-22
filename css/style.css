@@ -12,13 +12,26 @@
 	width:621px;
 	height:224px;
 	position:relative;
+	margin: 0 auto;
+	border: 3px dashed yellow;
 }
 h1{
 	font-size:16px;
+	text-align: center;
 }
 body{
-	font-size:12px;
+	font-size:17px;
+	background-color: darksalmon;
+	font-family: Arial, Helvetica, sans-serif;
 }
 h2{
 	font-size:14px;
+	text-align: center;
+}
+ul,li,p {
+	text-align: center;
+	list-style: none;
+}
+h1{
+	font-size: 22pt;
 }
